@@ -1,9 +1,9 @@
-<h4 align="center"> Ciao, I'm Ana Ceprnja 👋  <h4>
+<h4 align="center"> Ciao, I'm Ana Ceprnja<h4>
   <a href="https://www.linkedin.com/in/ana-ceprnja/">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.instagram.com/anarnja/">
+<a href="https://anaceprnja.com/">
   <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
