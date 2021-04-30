@@ -1,5 +1,5 @@
 
- <p align="center">
+ <p>
   <img width="250" src="https://media.giphy.com/media/paMlcYxDhmK8WuYHJu/giphy.gif">
 </p>
 <h4> Ciao, I'm Ana Ceprnja 👋  <h4>
