@@ -1,5 +1,5 @@
-<h4 align="center"><samp> Ciao, I'm Ana Ceprnja 👋 [![website](https://img.shields.io/badge/PortfolioWebsite-anaceprnja.com-2648ff?style=flat-square&logo=google-chrome)](https://anaceprnja.com/)
-</samp></h4>
+<h4 align="center"> Ciao, I'm Ana Ceprnja 👋 [![website](https://img.shields.io/badge/PortfolioWebsite-anaceprnja.com-2648ff?style=flat-square&logo=google-chrome)](https://anaceprnja.com/) <h4>
+
 
 
 
