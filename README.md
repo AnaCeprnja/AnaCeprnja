@@ -1,4 +1,4 @@
-### Ciao, I'm Ana Ceprnja 👋 [![website](https://img.shields.io/badge/PortfolioWebsite-anaceprnja.com-2648ff?style=flat-square&logo=google-chrome)](https://anaceprnja.com/)
+<h4 align="center" color"pink"><samp> Ciao, I'm Ana Ceprnja 👋</samp></h4> [![website](https://img.shields.io/badge/PortfolioWebsite-anaceprnja.com-2648ff?style=flat-square&logo=google-chrome)](https://anaceprnja.com/)
 
 
 
