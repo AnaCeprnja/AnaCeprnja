@@ -24,7 +24,7 @@
 
 ```javascript
 const ana = {
-  thingsILove:[animals,books,walks,mountains,beaches,allThingsTech]
+  thingsILove:[animals,books,walks,mountains,beaches,allThingsTech],
   languages: [JavaScript, HTML, CSS, Python],
   tools: [React, Django, Node.js, Express.js],
   database: [PostgreSQL, Sequelize, MongoDB, Mongoose],
