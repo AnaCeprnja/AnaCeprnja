@@ -1,8 +1,9 @@
+<h4 align="center"> Ciao, I'm Ana Ceprnja 👋  <h4>
 
- <p>
+<p align="center">
   <img width="250" src="https://media.giphy.com/media/paMlcYxDhmK8WuYHJu/giphy.gif">
 </p>
-<h4> Ciao, I'm Ana Ceprnja 👋  <h4>
+
  <a href="www.anaceprnja.com"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=portfolio&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="anaceprnja.com"/></a>
 
 
