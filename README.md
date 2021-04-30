@@ -15,13 +15,20 @@
 <br/>
 <br/>
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  
 
-
-
-
-
-<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
+```javascript
+const ana = {
+  thingsILove:[animals,books,walks,mountains,beaches,allThingsTech]
+  languages: [JavaScript, HTML, CSS, Python],
+  tools: [React, Django, Node.js, Express.js],
+  database: [PostgreSQL, Sequelize, MongoDB, Mongoose],
+  learning: {
+                        languages: "Java,C++",
+                        tools: "React Native"
+                      },
+}
+```
 
 
 <a href="https://github.com/AnaCeprnja">
